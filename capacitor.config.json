@@ -1,0 +1,6 @@
+{
+  "appId": "com.roguelike.survival2d",
+  "appName": "VampireSurvival2D",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
